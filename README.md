@@ -6,7 +6,7 @@
 
 **`Desenvolvedor Front-end`**
 
-Meu nome é Jhonathan , tenho 26 anos, sou natural de araxa minas gerais onde conclui o ensino medio, porem atualmente moro em uberlandia/MG, estou cursando Analise e Desenvolvimento de Sistema na Anhanguera, sou apaixonado por tecnologia, muito conhecimento e experiencia em manutençao de softwares e hardware.
+Meu nome é Jhonathan , tenho 26 anos, sou natural de Araxá/MG onde conclui o ensino medio, porem atualmente moro em Uberlandia/MG, estou cursando Analise e Desenvolvimento de Sistema na Anhanguera, sou apaixonado por tecnologia, muito conhecimento e experiencia em manutençao de softwares e hardware.
 
 ---
 
