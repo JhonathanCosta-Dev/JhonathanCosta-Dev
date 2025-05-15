@@ -2,6 +2,7 @@
 
 🕶️- Hoje estou mais focado no front-end
 📚- Estudando Tailwind CSS
+📖- Aberto a oportunidades só entrar em contato
 
 
 **`Desenvolvedor Front-end`**
