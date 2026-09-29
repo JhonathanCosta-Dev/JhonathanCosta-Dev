@@ -4,50 +4,33 @@
 
 ### `< Front-End Developer />`
 
-```text
-> Building interfaces.
-> Learning technologies.
-> Turning ideas into code.
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Front-End+Developer;JavaScript+%7C+TypeScript+%7C+React;Shopify+%7C+Liquid+%7C+Svelte;Building+interfaces...;Turning+ideas+into+code...;Always+learning+something+new..." />
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Front-End+Developer;JavaScript+%7C+TypeScript+%7C+React;Shopify+%7C+Liquid+%7C+Svelte;Always+learning+something+new...)
+<br>
 
 </div>
 
 ---
 
-## `> whoami`
+<div align="center">
 
-```javascript
-const jhonathan = {
-    name: "Jhonathan Costa",
-    role: "Front-End Developer",
-    location: "Uberlândia, MG 🇧🇷",
-    education: "Análise e Desenvolvimento de Sistemas",
-    university: "Anhanguera",
+### `jhonathan@github ~ $ whoami`
 
-    currentFocus: [
-        "Front-End Development",
-        "Shopify Development",
-        "Modern Web Technologies"
-    ],
+<table>
+<tr>
 
-    currentlyLearning: "Tailwind CSS",
+<td valign="top" width="42%">
+<img src="./ascii-portrait.svg" width="100%" />
+</td>
 
-    interests: [
-        "Software",
-        "Hardware",
-        "Technology",
-        "UI Development"
-    ]
-};
-```
+<td valign="top" width="58%">
+<img src="./info-card.svg" width="100%" />
+</td>
 
-Sou desenvolvedor **Front-End**, apaixonado por tecnologia e por transformar ideias em experiências digitais.
+</tr>
+</table>
 
-Natural de **Araxá/MG** e atualmente morando em **Uberlândia/MG**, curso **Análise e Desenvolvimento de Sistemas na Anhanguera**.
-
-Tenho experiência e conhecimento com desenvolvimento web, manutenção de software e hardware, além de trabalhar constantemente aprimorando minhas habilidades e explorando novas tecnologias.
+</div>
 
 ---
 
@@ -63,11 +46,7 @@ Tenho experiência e conhecimento com desenvolvimento web, manutenção de softw
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,webpack,python,linux&theme=dark" />
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
@@ -96,7 +75,7 @@ Tenho experiência e conhecimento com desenvolvimento web, manutenção de softw
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=JhonathanCosta-Dev&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+<img src="https://streak-stats.demolab.com?user=JhonathanCosta-Dev&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 
 </div>
 
@@ -106,7 +85,17 @@ Tenho experiência e conhecimento com desenvolvimento web, manutenção de softw
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JhonathanCosta-Dev&bg_color=0D1117&color=00D9FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JhonathanCosta-Dev&bg_color=0D1117&color=00D9FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `jhonathan@github ~ $ ./3d-contributions.sh`
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 
 </div>
 
@@ -118,45 +107,15 @@ Tenho experiência e conhecimento com desenvolvimento web, manutenção de softw
 status: coding
 focus: front-end
 learning: Tailwind CSS
+
 working_with:
   - JavaScript
   - TypeScript
+  - React
   - Shopify
   - Liquid
   - Svelte
   - Webpack
+
 environment: Linux
 coffee: required
-```
-
----
-
-## `> contact`
-
-<div align="center">
-
-### Vamos construir algo juntos?
-
-Estou aberto a oportunidades, projetos e novas conexões.
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=JhonathanCosta-Dev&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-<div align="center">
-
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│     CODE • CREATE • LEARN • REPEAT          │
-│                                             │
-└─────────────────────────────────────────────┘
-```
-
-`© Jhonathan Costa // Front-End Developer`
-
-</div>
