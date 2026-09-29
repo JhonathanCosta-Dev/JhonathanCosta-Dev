@@ -1,107 +1,162 @@
-# Olá! Eu sou JhonathanCosta
+<div align="center">
 
-🕶️- Hoje estou mais focado no front-end
-📚- Estudando Tailwind CSS
-📖- Aberto a oportunidades só entrar em contato
+# `JHONATHAN COSTA`
 
+### `< Front-End Developer />`
 
-**`Desenvolvedor Front-end`**
+```text
+> Building interfaces.
+> Learning technologies.
+> Turning ideas into code.
+```
 
-Meu nome é Jhonathan , tenho 27 anos, sou natural de Araxá/MG onde conclui o ensino medio, porem atualmente moro em Uberlandia/MG, estou cursando Analise e Desenvolvimento de Sistema na Anhanguera, sou apaixonado por tecnologia, muito conhecimento e experiencia em manutençao de softwares e hardware.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Front-End+Developer;JavaScript+%7C+TypeScript+%7C+React;Shopify+%7C+Liquid+%7C+Svelte;Always+learning+something+new...)
+
+</div>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## `> whoami`
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
+```javascript
+const jhonathan = {
+    name: "Jhonathan Costa",
+    role: "Front-End Developer",
+    location: "Uberlândia, MG 🇧🇷",
+    education: "Análise e Desenvolvimento de Sistemas",
+    university: "Anhanguera",
 
+    currentFocus: [
+        "Front-End Development",
+        "Shopify Development",
+        "Modern Web Technologies"
+    ],
 
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
+    currentlyLearning: "Tailwind CSS",
 
+    interests: [
+        "Software",
+        "Hardware",
+        "Technology",
+        "UI Development"
+    ]
+};
+```
 
+Sou desenvolvedor **Front-End**, apaixonado por tecnologia e por transformar ideias em experiências digitais.
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+Natural de **Araxá/MG** e atualmente morando em **Uberlândia/MG**, curso **Análise e Desenvolvimento de Sistemas na Anhanguera**.
 
-<br/>
-<br/>
+Tenho experiência e conhecimento com desenvolvimento web, manutenção de software e hardware, além de trabalhar constantemente aprimorando minhas habilidades e explorando novas tecnologias.
 
-### 📊 Estatísticas
+---
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=JhonathanCosta-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+## `> tech_stack`
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonathanCosta-Dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<div align="center">
 
-</p>
+### Front-End
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,svelte&theme=dark" />
+
+### Ferramentas & Tecnologias
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,webpack,python,linux&theme=dark" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Svelte](https://img.shields.io/badge/Svelte-111827?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+![Shopify](https://img.shields.io/badge/Shopify-111827?style=for-the-badge&logo=shopify&logoColor=7AB55C)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+
+</div>
+
+---
+
+## `> github_stats`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonathanCosta-Dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonathanCosta-Dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+
+</div>
+
+---
+
+## `> activity`
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=JhonathanCosta-Dev&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+
+</div>
+
+---
+
+## `> contribution_graph`
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JhonathanCosta-Dev&bg_color=0D1117&color=00D9FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true)
+
+</div>
+
+---
+
+## `> current_status`
+
+```yaml
+status: coding
+focus: front-end
+learning: Tailwind CSS
+working_with:
+  - JavaScript
+  - TypeScript
+  - Shopify
+  - Liquid
+  - Svelte
+  - Webpack
+environment: Linux
+coffee: required
+```
+
+---
+
+## `> contact`
+
+<div align="center">
+
+### Vamos construir algo juntos?
+
+Estou aberto a oportunidades, projetos e novas conexões.
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=JhonathanCosta-Dev&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+┌─────────────────────────────────────────────┐
+│                                             │
+│     CODE • CREATE • LEARN • REPEAT          │
+│                                             │
+└─────────────────────────────────────────────┘
+```
+
+`© Jhonathan Costa // Front-End Developer`
+
+</div>
