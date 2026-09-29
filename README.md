@@ -16,7 +16,11 @@
 
 ## `jhonathan@github ~ $ whoami`
 
-<img src="./jhonathan-whoami.svg" width="100%" alt="Jhonathan Costa - Whoami" />
+<img
+  src="./jhonathan-whoami-animated.svg"
+  width="100%"
+  alt="Jhonathan Costa - Whoami"
+/>
 
 </div>
 
