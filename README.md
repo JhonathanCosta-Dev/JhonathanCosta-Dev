@@ -12,10 +12,11 @@
 </div>
 
 ---
-
 <div align="center">
 
-## `jhonathan@github:~$ whoami`
+## `jhonathan@github ~ $ whoami`
+
+<img src="./jhonathan-whoami.svg" width="100%" alt="Jhonathan Costa - Whoami" />
 
 </div>
 
