@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="520" viewBox="0 0 1100 520">
+<style>
+  .bg{fill:#0d1117}.panel{fill:#0d1117;stroke:#30363d;stroke-width:1.2}
+  .mono{font-family:"SFMono-Regular",Consolas,"Liberation Mono",Menlo,monospace}
+  .title{font-size:18px;font-weight:700;fill:#e6edf3}.muted{font-size:13px;fill:#8b949e}
+  .key{font-size:14px;fill:#58a6ff}.green{font-size:14px;fill:#3fb950}.text{font-size:14px;fill:#c9d1d9}
+  .line{opacity:0;animation:show .25s forwards}.blink{animation:blink 1s steps(1,end) infinite}
+  .pulse{animation:pulse 1.8s ease-in-out infinite}
+  .bar{transform-origin:left;animation:grow .9s ease-out forwards;transform:scaleX(0)}
+  @keyframes show{to{opacity:1}} @keyframes blink{50%{opacity:0}}
+  @keyframes pulse{50%{opacity:.35}} @keyframes grow{to{transform:scaleX(1)}}
+</style>
+<rect class="bg" width="1100" height="520" rx="8"/>
+<rect class="panel" x="15" y="15" width="1070" height="490" rx="10"/>
+<line x1="15" y1="62" x2="1085" y2="62" stroke="#30363d"/>
+<circle cx="38" cy="39" r="6" fill="#ff5f56"/><circle cx="58" cy="39" r="6" fill="#ffbd2e"/><circle cx="78" cy="39" r="6" fill="#27c93f"/>
+<text x="550" y="45" text-anchor="middle" class="mono title">jhonathan@github — system_status</text>
+
+<g class="line" style="animation-delay:.15s"><text x="42" y="95" class="mono key">$ systemctl status jhonathan.service</text></g>
+<g class="line" style="animation-delay:.45s"><circle cx="48" cy="126" r="5" fill="#3fb950" class="pulse"/><text x="62" y="131" class="mono green">ACTIVE / ONLINE</text><text x="245" y="131" class="mono muted">running</text></g>
+
+<g class="line" style="animation-delay:.75s"><text x="42" y="170" class="mono muted">USER</text><text x="190" y="170" class="mono text">JhonathanCosta-Dev</text></g>
+<g class="line" style="animation-delay:1.00s"><text x="42" y="198" class="mono muted">ROLE</text><text x="190" y="198" class="mono text">Front-End Developer</text></g>
+<g class="line" style="animation-delay:1.25s"><text x="42" y="226" class="mono muted">FOCUS</text><text x="190" y="226" class="mono text">Front-End · Shopify · Modern Web</text></g>
+<g class="line" style="animation-delay:1.50s"><text x="42" y="254" class="mono muted">LEARNING</text><text x="190" y="254" class="mono text">Tailwind CSS</text></g>
+<g class="line" style="animation-delay:1.75s"><text x="42" y="282" class="mono muted">ENV</text><text x="190" y="282" class="mono text">Linux · VS Code · GitHub</text></g>
+
+<g class="line" style="animation-delay:2s"><text x="610" y="105" class="mono key">STACK LOAD</text></g>
+<g class="line" style="animation-delay:2.15s"><text x="610" y="140" class="mono text">JavaScript</text><rect x="735" y="129" width="270" height="12" rx="6" fill="#161b22"/><rect class="bar" style="animation-delay:2.2s" x="735" y="129" width="235" height="12" rx="6" fill="#58a6ff"/></g>
+<g class="line" style="animation-delay:2.35s"><text x="610" y="177" class="mono text">TypeScript</text><rect x="735" y="166" width="270" height="12" rx="6" fill="#161b22"/><rect class="bar" style="animation-delay:2.4s" x="735" y="166" width="215" height="12" rx="6" fill="#58a6ff"/></g>
+<g class="line" style="animation-delay:2.55s"><text x="610" y="214" class="mono text">React</text><rect x="735" y="203" width="270" height="12" rx="6" fill="#161b22"/><rect class="bar" style="animation-delay:2.6s" x="735" y="203" width="205" height="12" rx="6" fill="#58a6ff"/></g>
+<g class="line" style="animation-delay:2.75s"><text x="610" y="251" class="mono text">Shopify</text><rect x="735" y="240" width="270" height="12" rx="6" fill="#161b22"/><rect class="bar" style="animation-delay:2.8s" x="735" y="240" width="245" height="12" rx="6" fill="#3fb950"/></g>
+<g class="line" style="animation-delay:2.95s"><text x="610" y="288" class="mono text">Svelte</text><rect x="735" y="277" width="270" height="12" rx="6" fill="#161b22"/><rect class="bar" style="animation-delay:3s" x="735" y="277" width="190" height="12" rx="6" fill="#ff7b72"/></g>
+
+<line x1="42" y1="325" x2="1055" y2="325" stroke="#21262d"/>
+<g class="line" style="animation-delay:3.25s"><text x="42" y="360" class="mono green">✓ interfaces.service</text><text x="300" y="360" class="mono muted">running</text></g>
+<g class="line" style="animation-delay:3.5s"><text x="42" y="390" class="mono green">✓ learning.service</text><text x="300" y="390" class="mono muted">running</text></g>
+<g class="line" style="animation-delay:3.75s"><text x="42" y="420" class="mono green">✓ coffee.service</text><text x="300" y="420" class="mono muted">required</text></g>
+
+<g class="line" style="animation-delay:4s"><text x="42" y="466" class="mono key">jhonathan@github:~$</text><text x="230" y="466" class="mono text">CODE • CREATE • LEARN • REPEAT</text><rect x="525" y="452" width="9" height="18" fill="#c9d1d9" class="blink"/></g>
+</svg>
