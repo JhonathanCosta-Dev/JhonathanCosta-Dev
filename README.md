@@ -24,26 +24,7 @@
 
 </div>
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  USER        Jhonathan Costa                                 │
-│  ROLE        Front-End Developer                             │
-│  LOCATION    Uberlândia, MG - Brasil                         │
-│                                                              │
-│  FOCUS       Front-End Development                           │
-│              Shopify Development                             │
-│              Modern Web Technologies                         │
-│                                                              │
-│  STACK       JavaScript • TypeScript • React                 │
-│              Svelte • Liquid • Tailwind CSS                  │
-│                                                              │
-│  TOOLS       Git • GitHub • Webpack • VS Code • Linux        │
-│                                                              │
-│  STATUS      ● ONLINE                                        │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+
 
 <div align="center">
 
