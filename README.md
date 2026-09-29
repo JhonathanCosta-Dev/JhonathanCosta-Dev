@@ -126,43 +126,17 @@ Cursando **Análise e Desenvolvimento de Sistemas na Anhanguera**.
 
 ---
 
+<div align="center">
+
 ## `> system_status`
 
-```yaml
-user: JhonathanCosta-Dev
+<img
+  src="./system-status-animated.svg"
+  width="100%"
+  alt="Jhonathan Costa - System Status"
+/>
 
-status: online
-
-role:
-  Front-End Developer
-
-focus:
-  - Front-End Development
-  - Shopify Development
-  - Modern Web Technologies
-
-learning:
-  - Tailwind CSS
-
-working_with:
-  - JavaScript
-  - TypeScript
-  - React
-  - Shopify
-  - Liquid
-  - Svelte
-  - Webpack
-
-environment:
-  OS: Linux
-  Editor: VS Code
-
-mission:
-  "CODE • CREATE • LEARN • REPEAT"
-```
-
----
-
+</div>
 <div align="center">
 
 ## `jhonathan@github:~$ contact --open`
